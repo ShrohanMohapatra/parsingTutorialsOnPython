@@ -1,0 +1,14 @@
+E -> TA
+A -> B
+A -> C
+B -> +TB
+B -> 
+C -> -TC
+C -> 
+T -> n.L
+T -> n.L**n
+T -> L
+T -> L**n
+L -> iD
+D -> .iL
+D -> 

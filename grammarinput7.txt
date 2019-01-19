@@ -1,0 +1,20 @@
+G -> S
+S -> PA
+A -> +PA
+A -> 
+P -> QB
+B -> QB
+B -> 
+Q -> (E)F
+Q -> E
+E -> TC
+C -> +TC
+C -> 
+T -> UD
+U -> UD
+D -> 
+U -> JF
+J -> a
+J -> b
+F -> *
+F -> 

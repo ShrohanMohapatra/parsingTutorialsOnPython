@@ -1,0 +1,10 @@
+G -> S
+S -> S+T
+S -> T
+T -> TF
+T -> F
+F -> HU
+H -> a
+H -> b
+U -> 
+U -> *

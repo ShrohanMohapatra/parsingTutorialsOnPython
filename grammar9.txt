@@ -1,0 +1,16 @@
+G -> A
+A -> A+B
+A -> B
+B -> BH
+B -> H
+H -> (H)
+H -> H*
+H -> S
+S -> S+T
+S -> T
+T -> TF
+T -> F
+F -> a
+F -> a*
+F -> b
+F -> b*
